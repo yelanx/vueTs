@@ -1,9 +1,11 @@
 <script setup lang="ts">
 import HelloWorld from "./components/HelloWorld.vue";
+console.log('test');
+
 </script>
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <div>测试环境</div>
+  <div>测试环境123</div>
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite？？？" />
 </template>
 
