@@ -2,7 +2,7 @@
 import { ref } from "vue";
 defineProps<{ msg: string }>();
 const count = ref(0);
-console.log("这里是测试环境");
+console.log("这里是测试环112境");
 </script>
 
 <template>
