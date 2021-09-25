@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import HelloWorld from "./components/HelloWorld.vue";
-console.log("test");
+console.log("test123");
 </script>
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
