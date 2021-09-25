@@ -1,8 +1,6 @@
 <script setup lang="ts">
 import HelloWorld from "./components/HelloWorld.vue";
-console.log('test');
-console.log('老婆爱你～');
-
+console.log("test");
 </script>
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
