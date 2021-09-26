@@ -4,7 +4,7 @@ console.log("test123");
 </script>
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <div>测试环境测试原声事件</div>
+  <div>爱你宝贝~~~++++</div>
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite？？？" />
 </template>
 
