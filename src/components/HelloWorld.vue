@@ -9,7 +9,7 @@
       href="https://marketplace.visualstudio.com/items?itemName=octref.vetur"
       target="_blank"
     >
-      Vetur
+      Vetur is a Excellents
     </a>
     or
     <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
